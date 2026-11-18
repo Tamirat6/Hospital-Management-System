@@ -15,6 +15,11 @@ managed collaboratively through Git and GitHub, and tested using JUnit.x
                                            Doctor 
                                            Patient 
                                            Cashier 
+                                           Nurse
+                                           Pharmacist
+                                           laboratory Technicial
+                                           Payment System
+                                    
                           UML diagram 
 A. Use Case Diagram 
 Example:  
