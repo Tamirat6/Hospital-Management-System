@@ -36,6 +36,11 @@ Example:
 
 .Patient →Request Appointment, View Appointment, View Personal Information, View Medical History 
 
+.	Pharmacist ->Manage Medicine, View Prescriptions, Dispense Medicine, Update Medicine Stock, Manage Medicine Inventory
+
+.	Laboratory Technician ->	View Test Requests, Perform Laboratory Tests, Record Test Results, Update Test Results, Generate Laboratory Reports
+
+.Payment System	-> Verify Payment, Process Electronic Payment, Confirm Payment, Send Payment Status
 
                                    B. Activity Diagram 
 Example: patient Registration 
@@ -51,7 +56,49 @@ Example: patient Registration
  
                                          C.Sequence Diagram 
            Example: patient Registration 
-                      Receptionist → PatientForm → PatientController → Patient → Database 
+           
+
+@startuml
+
+title Patient Registration Sequence Diagram
+
+
+actor Receptionist
+
+boundary PatientForm
+
+control PatientController
+
+entity Patient
+
+database Database
+
+
+Receptionist -> PatientForm: Enter patient information
+
+PatientForm -> PatientController: Submit patient information
+
+
+PatientController -> PatientController: Validate information
+
+
+alt Information is valid
+
+    PatientController -> Patient: Create patient object
+    PatientController -> Database: Save patient data
+    Database --> PatientController: Return success
+    PatientController --> PatientForm: Display success message
+else Information is invalid
+
+    PatientController --> PatientForm: Display error message
+end
+
+
+PatientForm --> Receptionist: Show registration result
+
+
+@enduml
+
                       
                                           D:Class Diagram 
                                             .User  
@@ -61,8 +108,13 @@ Example: patient Registration
                                             .  Receptionist  
                                             .  Appointment  
                                             .  MedicalRecord  
-                                             .  Bill  
-                                             .  Payment 
+                                            .  Bill  
+                                            .  Payment 
+                                            .  Prescription 
+                                            .  LaboratoryTest 
+                                            .  TestResult 
+                                            .  LaboratoryTechnician 
+                                            .  Pharmacist 
  
  
  
