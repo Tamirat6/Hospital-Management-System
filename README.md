@@ -21,7 +21,8 @@ managed collaboratively through Git and GitHub, and tested using JUnit.x
                                            Payment System
                                     
                           UML diagram 
-A. Use Case Diagram 
+                          
+                                 A. Use Case Diagram 
 Example:  
 .Admin → Manage Users  ,Manage Doctors, Manage Hospital Information, View Reports, Manage System
 .Receptionist → Register Patient  ,Book Appointment ,Cancel Appointment, Search Patient ,Update patient information
