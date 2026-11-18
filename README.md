@@ -35,8 +35,11 @@ Example:
 .Cashier → Generate Bill, Process Payment, View Payment History, Print Receiptt
 
 .Patient →Request Appointment, View Appointment, View Personal Information, View Medical History 
+
 .	Pharmacist ->Manage Medicine, View Prescriptions, Dispense Medicine, Update Medicine Stock, Manage Medicine Inventory
+
 .	Laboratory Technician ->	View Test Requests, Perform Laboratory Tests, Record Test Results, Update Test Results, Generate Laboratory Reports
+
 .Payment System	-> Verify Payment, Process Electronic Payment, Confirm Payment, Send Payment Status
 
                                    B. Activity Diagram 
