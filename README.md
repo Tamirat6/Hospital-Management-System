@@ -1,6 +1,6 @@
 
                                Description 
-The Hospital Management System (HMS) is a software application designed to improve the 
+The Hospital Management System (HMS) is -a software application designed to improve the 
 management of hospital activities by organizing patient registration, doctor information, 
 appointment scheduling, medical records, and billing. The system will allow authorized hospital 
 staff to manage patient information, doctors to access relevant patient records, and 
@@ -18,13 +18,12 @@ managed collaboratively through Git and GitHub, and tested using JUnit.x
                           UML diagram 
 A. Use Case Diagram 
 Example:  
-.Admin → Manage Users  
-.Receptionist → Register Patient  
-.Receptionist → Book Appointment  
-.Doctor → View Patient Records  
-.Doctor → Update Medical Record  
-.Cashier → Process Payment  
-.Patient → Request Appointment 
+.Admin → Manage Users  ,Manage Doctors, Manage Hospital Information, View Reports, Manage System
+.Receptionist → Register Patient  ,Book Appointment ,Cancel Appointment, Search Patient ,Update patient information
+.Doctor → 	View Patient Records, Diagnose Patient, Update Medical Records, Prescribe Medicine, View Appointments 
+.Nurse → View Patient Information, Update Medical Records, Monitor Patient, Manage Patient Care  
+.Cashier → Generate Bill, Process Payment, View Payment History, Print Receiptt  
+.Patient →Request Appointment, View Appointment, View Personal Information, View Medical History 
 B. Activity Diagram 
 Example: patient Registration 
 .Start  
@@ -60,6 +59,7 @@ Example: patient Registration
 
 | No. | Name | ID | Email | GitHub Link |
 |---|---|---|---|---|
+
 | 1 | Tamirat Semagn | 0621/17 | arsenal.t2026@gmail.com | https://github.com/Tamirat6 |
 | 2 | Selamawit Kindye | 0581/17 | selamkindye7@gmai.com | https://github.com/selamkindye |
 | 3 | Mulat Berihun | 0482/17 |mulatberihun8@gmail.com  |  https://github.com/mulugeta212927|
