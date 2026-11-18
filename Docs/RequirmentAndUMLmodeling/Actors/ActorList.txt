@@ -1,0 +1,11 @@
+No    Actor             Description
+
+1,    Admin         Manage users,doctors,hospital information, and system operations.
+2,    Cashier       Generate bills,processes payment, and prints receipts.
+3,    Doctor        Views patient records,diagnoses patients,prescribes medicine, and updates medical records.
+4,    Labratory     Views test requests,performs labratory tests, records results, and generates labratory reports
+5,    Nurse         Views patient information,monitors patients, and manages patient care
+6,    Patient        Requests appointments and views personal information and medical history
+7,    Payment       Verifies and processes electronic payments and sends pyment status
+8,    Pharmacist     Manages medicines, views prescriptions, dispenses medicine ,and updates medicine stock.
+9,    Recieptionist    Register patients,books appointments,and updates patient information.
