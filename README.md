@@ -56,7 +56,49 @@ Example: patient Registration
  
                                          C.Sequence Diagram 
            Example: patient Registration 
-                      Receptionist → PatientForm → PatientController → Patient → Database 
+           
+
+@startuml
+
+title Patient Registration Sequence Diagram
+
+
+actor Receptionist
+
+boundary PatientForm
+
+control PatientController
+
+entity Patient
+
+database Database
+
+
+Receptionist -> PatientForm: Enter patient information
+
+PatientForm -> PatientController: Submit patient information
+
+
+PatientController -> PatientController: Validate information
+
+
+alt Information is valid
+
+    PatientController -> Patient: Create patient object
+    PatientController -> Database: Save patient data
+    Database --> PatientController: Return success
+    PatientController --> PatientForm: Display success message
+else Information is invalid
+
+    PatientController --> PatientForm: Display error message
+end
+
+
+PatientForm --> Receptionist: Show registration result
+
+
+@enduml
+
                       
                                           D:Class Diagram 
                                             .User  
@@ -66,8 +108,13 @@ Example: patient Registration
                                             .  Receptionist  
                                             .  Appointment  
                                             .  MedicalRecord  
-                                             .  Bill  
-                                             .  Payment 
+                                            .  Bill  
+                                            .  Payment 
+                                            .  Prescription 
+                                            .  LaboratoryTest 
+                                            .  TestResult 
+                                            .  LaboratoryTechnician 
+                                            .  Pharmacist 
  
  
  
