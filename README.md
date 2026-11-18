@@ -29,7 +29,7 @@ Example:
 .Nurse → View Patient Information, Update Medical Records, Monitor Patient, Manage Patient Care  
 .Cashier → Generate Bill, Process Payment, View Payment History, Print Receiptt  
 .Patient →Request Appointment, View Appointment, View Personal Information, View Medical History 
-B. Activity Diagram 
+                                   B. Activity Diagram 
 Example: patient Registration 
 .Start  
 .  Enter patient information  
