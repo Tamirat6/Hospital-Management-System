@@ -18,13 +18,12 @@ managed collaboratively through Git and GitHub, and tested using JUnit.x
                           UML diagram 
 A. Use Case Diagram 
 Example:  
-.Admin → Manage Users  
-.Receptionist → Register Patient  
-.Receptionist → Book Appointment  
-.Doctor → View Patient Records  
-.Doctor → Update Medical Record  
-.Cashier → Process Payment  
-.Patient → Request Appointment 
+.Admin → Manage Users  ,Manage Doctors, Manage Hospital Information, View Reports, Manage System
+.Receptionist → Register Patient  ,Book Appointment ,Cancel Appointment, Search Patient ,Update patient information
+.Doctor → 	View Patient Records, Diagnose Patient, Update Medical Records, Prescribe Medicine, View Appointments 
+.Nurse → View Patient Information, Update Medical Records, Monitor Patient, Manage Patient Care  
+.Cashier → Generate Bill, Process Payment, View Payment History, Print Receiptt  
+.Patient →Request Appointment, View Appointment, View Personal Information, View Medical History 
 B. Activity Diagram 
 Example: patient Registration 
 .Start  
