@@ -1,6 +1,6 @@
 
                                Description 
-The Hospital Management System (HMS) is a software application designed to improve the 
+The Hospital Management System (HMS) is -a software application designed to improve the 
 management of hospital activities by organizing patient registration, doctor information, 
 appointment scheduling, medical records, and billing. The system will allow authorized hospital 
 staff to manage patient information, doctors to access relevant patient records, and 
