@@ -10,7 +10,7 @@ services more efficient. The system will be designed using UML diagrams, develop
 managed collaboratively through Git and GitHub, and tested using JUnit.x 
  
                                Actors 
-                                            Admin 
+                                          Admin 
                                            Receptionist 
                                            Doctor 
                                            Patient 
@@ -19,16 +19,21 @@ managed collaboratively through Git and GitHub, and tested using JUnit.x
                                            Pharmacist
                                            laboratory Technicial
                                            Payment System
-                                    
-                          UML diagram 
-                          
+                                           
+
+                                  UML diagram 
                                  A. Use Case Diagram 
 Example:  
 .Admin → Manage Users  ,Manage Doctors, Manage Hospital Information, View Reports, Manage System
+
 .Receptionist → Register Patient  ,Book Appointment ,Cancel Appointment, Search Patient ,Update patient information
+
 .Doctor → 	View Patient Records, Diagnose Patient, Update Medical Records, Prescribe Medicine, View Appointments 
+
 .Nurse → View Patient Information, Update Medical Records, Monitor Patient, Manage Patient Care  
-.Cashier → Generate Bill, Process Payment, View Payment History, Print Receiptt  
+
+.Cashier → Generate Bill, Process Payment, View Payment History, Print Receiptt
+
 .Patient →Request Appointment, View Appointment, View Personal Information, View Medical History 
 
 
@@ -47,16 +52,17 @@ Example: patient Registration
                                          C.Sequence Diagram 
            Example: patient Registration 
                       Receptionist → PatientForm → PatientController → Patient → Database 
-                                                         D:Class Diagram 
-                                                             .User  
-                                                             .  Admin  
-                                                             .  Doctor  
-                                                             .  Patient  
-                                                             .  Receptionist  
-                                                             .  Appointment  
-                                                             .  MedicalRecord  
-                                                             .  Bill  
-                                                             .  Payment 
+                      
+                                          D:Class Diagram 
+                                            .User  
+                                            .  Admin  
+                                            .  Doctor  
+                                            .  Patient  
+                                            .  Receptionist  
+                                            .  Appointment  
+                                            .  MedicalRecord  
+                                             .  Bill  
+                                             .  Payment 
  
  
  
