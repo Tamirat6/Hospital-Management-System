@@ -1,0 +1,71 @@
+                                                          Functionalities
+
+The Laboratory Technician is responsible for handling laboratory activities performing tests and recording test results. The system helps laboratory technicians manage test requests from doctors, update test results and make laboratory information available to doctors.
+
+                                                         Main Functionalities
+
+1. Laboratory Technician Account Login: The laboratory technician can log in to the system using a username and password to access laboratory services
+
+2. View Test Requests: The laboratory technician can view test requests sent by doctors for patients.
+
+3. Manage Test Requests: The technician can check pending test requests. Organize them based on the type of medical test required.
+
+4. View Patient Information: The technician can access information, such as patient name, ID and relevant medical details to identify patients correctly before performing tests.
+
+5. Organize Test Requests: The technician can arrange laboratory requests according to test types and priority to make laboratory activities easier to manage.
+
+6. Update Test Status: The technician can update the status of each test such as Pending, In Progress or Completed so doctors can follow the progress of laboratory examinations.
+
+7. Record Laboratory Test Information: The technician can enter test details, including test type, patient information and examination date into the system.
+
+8. Perform Laboratory Tests: The technician performs requested tests, such as blood tests, urine tests and other medical examinations.
+
+9. Record Test Results: After completing a test the technician enters the patients test results into the system so that the information can be stored and accessed when needed.
+
+10. Update Test Results: The technician can. Update test results when necessary to ensure that the information stored in the system is accurate.
+
+11. Verify Test Results: The technician can review test results before submitting them to make sure the recorded information is correct and complete.
+
+12. Generate Laboratory Reports: The technician can prepare and generate laboratory reports based on completed tests so that test findings are presented in a format.
+
+13. Send Results to Doctors: The system allows the technician to share completed test results with doctors so they can review the findings and make medical decisions.
+
+14. Search Previous Test Records: The technician can search for laboratory records using a patients name or ID to quickly find earlier test results.
+
+15. Manage Laboratory History: The technician can. Maintain records of previously performed tests so that laboratory information remains organized and available for future reference.
+
+16. Receive Notifications: The technician can receive notifications, about test requests and important laboratory updates so that they can respond to doctors requests on time.
+
+
+
+                                                             User Story
+
+1	As a Laboratory Technician I want to log in to the system with my account so that I can access laboratory services and manage my responsibilities.
+
+2	As a Laboratory Technician I want to view laboratory test requests submitted by doctors so that I know which patients need tests.
+
+3	As a Laboratory Technician I want to view information, including their name, patient ID and relevant medical details so that I can correctly identify patients before performing tests.
+
+4	As a Laboratory Technician I want to organize test requests according to their types and priority so that I can manage laboratory work efficiently.
+
+5	As a Laboratory Technician I want to update the status of a test request, such as Pending, In Progress or Completed so that doctors can know the progress of each test.
+
+6	As a Laboratory Technician I want to record laboratory test information, such as the test type and examination date so that every laboratory activity is properly documented.
+
+7	As a Laboratory Technician I want to perform requested tests, such as blood tests and urine tests so that doctors can get the information needed to diagnose patients.
+
+8	As a Laboratory Technician I want to enter test results into the system after completing an examination so that the results are safely stored and available for review.
+ 
+9	As a Laboratory Technician I want to update or test results when necessary so that the information stored in the system remains accurate.
+
+10	As a Laboratory Technician I want to review test results before submitting them so that I can reduce errors and ensure that the recorded information is correct.
+
+11	As a Laboratory Technician I want to generate laboratory reports so that completed test results can be presented in an understandable format.
+
+12	As a Laboratory Technician I want to send completed laboratory results to the requesting doctor so that the doctor can review the findings and make medical decisions.
+
+13	As a Laboratory Technician I want to search for laboratory records using a patient ID or name so that I can easily find earlier test results.
+
+14	As a Laboratory Technician I want to view the history of tests performed on a patient so that I can compare current laboratory results when necessary.
+
+15	As a Laboratory Technician I want to receive notifications, about laboratory test requests so that I can respond to doctors requests without unnecessary delays.          
