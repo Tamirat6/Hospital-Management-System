@@ -24,3 +24,30 @@ Pharmacist Main Functionalities
 11. View Medicine History: The Pharmacist can view medicine transaction history, including received, dispensed and updated medicines so that previous medicine activities can be tracked.
 
 12. Manage Medicine Categories: The Pharmacist can create, update and organize medicine categories so that medicines can be classified and managed easily.
+
+         Pharmacist User Stories
+The Pharmacist plays an important role in managing hospital medicines and ensuring that patients receive their prescribed medications. The system should help Pharmacists manage medicine information, dispense prescriptions, monitor stock levels, track expiry dates and maintain medicine records.
+User Stories
+1. As a Pharmacist, I want to add, update and delete medicine information so that medicine records remain accurate and up to date.
+
+2. As a Pharmacist, I want to view prescriptions provided by doctors so that I can prepare the correct medicines for patients.
+
+3. As a Pharmacist, I want to dispense prescribed medicines to patients so that they can receive the medications recommended by doctors.
+
+4. As a Pharmacist, I want to update medicine stock information so that the system reflects the current quantity of available medicines.
+
+5. As a Pharmacist, I want to manage medicine inventory so that the hospital can maintain sufficient medicine supplies.
+
+6. As a Pharmacist, I want to search for medicines using their names or medicine IDs so that I can quickly find the required medicine information.
+
+7. As a Pharmacist, I want to check medicine availability so that I can know whether prescribed medicines are available before dispensing them.
+
+8. As a Pharmacist, I want to monitor medicine expiry dates so that expired medicines can be identified and prevented from being dispensed to patients.
+
+9. As a Pharmacist, I want to generate medicine reports so that the hospital can monitor medicine stock and pharmacy activities.
+
+10. As a Pharmacist, I want to notify the Administrator about low medicine stock so that necessary medicines can be restocked on time.
+
+11. As a Pharmacist, I want to view medicine history so that I can track previously received, dispensed and updated medicines.
+
+12. As a Pharmacist, I want to manage medicine categories so that medicines can be organized and classified properly.
