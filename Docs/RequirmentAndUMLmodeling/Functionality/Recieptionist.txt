@@ -1,1 +1,22 @@
+        2.2 Receptionist Functional Requirements
+The Receptionist is responsible for registering patients, managing appointments and coordinating communication between patients and hospital staff. The system helps Receptionists register new patients, update patient information, schedule appointments, assign patients to doctors and manage patient registration records efficiently.
+Receptionist Main Functionalities
+1. Register Patient: The Receptionist can register new patients by entering their personal information, including full name, age, gender, phone number and address so that patient information is recorded in the hospital system.
 
+2. Book Appointment: The Receptionist can book appointments for patients by selecting an available doctor, appointment date and time so that patients can receive medical services at the appropriate time.
+
+3. Cancel Appointment: The Receptionist can cancel scheduled appointments when patients request cancellation or cannot attend so that appointment schedules remain updated.
+
+4. Update Patient Information: The Receptionist can update patient information, including contact details and personal information, so that patient records remain accurate and up to date.
+
+5. Search Patient: The Receptionist can search for patients using their names or patient IDs so that the required patient records can be found quickly.
+
+6. View Patient Information: The Receptionist can view registered patient information so that necessary details can be accessed during registration and appointment management.
+
+7. Manage Appointment Schedules: The Receptionist can create, update and manage appointment schedules so that patients can be organized according to available dates and times.
+
+8. Assign Patients to Doctors: The Receptionist can assign patients to appropriate doctors based on their medical needs and doctor availability so that patients can receive the required medical services.
+
+9. View Doctor Availability: The Receptionist can view doctors' available schedules so that appointments can be booked without scheduling conflicts.
+
+10. Generate Patient Registration Reports: The Receptionist can generate reports about registered patients and appointment activities so that the hospital can monitor patient registration and appointment records.
