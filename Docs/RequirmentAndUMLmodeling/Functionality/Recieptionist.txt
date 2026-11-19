@@ -20,3 +20,26 @@ Receptionist Main Functionalities
 9. View Doctor Availability: The Receptionist can view doctors' available schedules so that appointments can be booked without scheduling conflicts.
 
 10. Generate Patient Registration Reports: The Receptionist can generate reports about registered patients and appointment activities so that the hospital can monitor patient registration and appointment records.
+
+       Receptionist User Stories
+The Receptionist plays an important role in managing patient registration and appointment scheduling. The system should help Receptionists register patients, maintain patient information, schedule appointments, coordinate with doctors and manage patient records efficiently.
+User Stories
+1. As a Receptionist, I want to register new patients by entering their personal information so that their details can be recorded in the hospital system.
+
+2. As a Receptionist, I want to book appointments for patients by selecting an available doctor, date and time so that patients can receive medical services at the appropriate time.
+
+3. As a Receptionist, I want to cancel scheduled appointments so that appointment schedules remain updated when patients cannot attend.
+
+4. As a Receptionist, I want to update patient information so that patient records remain accurate and up to date.
+
+5. As a Receptionist, I want to search for patients using their names or patient IDs so that I can quickly find the required patient records.
+
+6. As a Receptionist, I want to view patient information so that I can access the necessary details during registration and appointment management.
+
+7. As a Receptionist, I want to manage appointment schedules so that patient appointments can be organized according to available dates and times.
+
+8. As a Receptionist, I want to assign patients to appropriate doctors so that patients can receive medical services from the right doctors.
+
+9. As a Receptionist, I want to view doctor availability so that I can schedule appointments without conflicts.
+
+10. As a Receptionist, I want to generate patient registration reports so that the hospital can monitor registered patients and appointment activities.
