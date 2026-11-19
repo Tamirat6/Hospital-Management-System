@@ -1,0 +1,48 @@
+                                        Functionalities 
+
+      The admin will manage the overall HMS
+
+       1.Manages Users-The admin will be able to add, update, delete and view system users
+
+       2.Manage Doctors-The admin will be able to register, update, delete and view doctor information
+
+       3.Manage Hospital Information-The admin will be able to manage hospital details and departments
+
+       4.Manage Staff Accounts-The Admin will be able to create and manage accounts for hospital staff
+
+       5.Manage User Roles-The admin will be able to assign roles and access permissions to users
+
+       6.View Reports-The Admin will be able to view hospital reports
+
+       7.Manage System Settings-The Admin will be able to configure and maintain system settings
+
+       8.Monitor Hospital Activities-The admin will be able to monitor the overall activities of the hospital
+
+       9.Manage Patients- The Admin will be able to view, update and manage patient information
+
+       10.Manage Departments-The Admin will be able to create, update and delete hospital departments
+
+
+
+
+                 User Stories
+
+          1.As an Admin, I want to manage system users so that I can control access to the HMS
+
+          2.As an Admin, I want to manage doctors so that I can maintain accurate doctor information
+
+          3.As an Admin, I want to manage patients so that I can maintain updated patient information
+
+          4.As an Admin, I want to manage hospital staff so that I can organize hospital employees
+
+          5.As an Admin, I want to manage hospital departments so that I can organize hospital services
+
+          6.As an Admin, I want to assign user roles and permissions so that each user can access only authorized system functions
+
+          7.As an Admin, I want to view hospital reports so that I can monitor hospital performance
+
+          8.As an Admin, I want to manage system settings so that I can configure the system properly
+
+          9.As an Admin, I want to monitor hospital activities so that I can ensure smooth hospital operations
+
+          10. As an Admin, I want to manage hospital information so that hospital details remain accurate and up to date

@@ -1,0 +1,50 @@
+Functionalities
+
+  The Doctor is required to provide healthcare services and manage patient medical records.
+
+      1, View Patient Records: The Doctor shall be able to view patient medical records.
+
+      2, View Appointments: The Doctor shall be able to view scheduled patient appointments
+
+      3, Diagnose Patients: The Doctor shall be able to diagnose patients.
+
+      4, Manage Medical Records: The Doctor shall be able to create, update and view patient medical records.
+
+      5, Prescribe Medicines: The Doctor shall be able to prescribe medicines to patients.
+
+      6, Request Laboratory Tests: The Doctor shall be able to request laboratory tests for patients.
+
+      7, View Laboratory Results: The Doctor shall be able to view patient laboratory test results.
+
+      8, Update Treatment Information: The Doctor shall be able to record and update patient treatment information.
+
+      9, Update Treatment Information: The Doctor shall be able to record and update patient treatment information.
+
+      10, Manage Patient Follow-ups: The Doctor shall be able to manage patient follow-up visits.
+
+
+
+
+
+
+                   User Stories
+
+    1, As a Doctor, I want to view patient records so that I can understand patient's medical condition.
+
+    2, As a Doctor, I want to view scheduled appointments so that I can arrange my consultation time.
+
+    3, As a Doctor, I want to diagnose patients so that I can determine their health problems.
+
+    4, As a Doctor, I want to manage medical records so that patient medical information is up-to-date.
+
+    5, As a Doctor, I want to prescribe medicines so that patients can get the necessary treatment.
+
+    6.As a Doctor, I want to request laboratory tests so that I can have more information about patient's health conditions.
+
+    7, As a Doctor, I want to view laboratory test results so that I can take right medical decision.
+
+    8, As a Doctor, I want to update treatment information so that patient treatment progress is properly recorded.
+
+    9, As a Doctor, I want to manage patient follow-up appointments so that I can monitor patients' recovery.
+    
+    10, As a Doctor, I want to view patient medical history so that I can know about patient's previous illness and treatments.

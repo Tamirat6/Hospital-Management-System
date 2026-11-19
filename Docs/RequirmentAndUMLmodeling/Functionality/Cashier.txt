@@ -1,0 +1,47 @@
+Functionalities
+
+      The Cashier is supposed to handle all activities regarding patient billing and payment
+
+      1. Generate bills:The Cashier will be able to generate bills for hospital services rendered to patients.
+
+      2. View Patient Billing Information: The Cashier will be able to view patient billing information.
+
+      3. Process Payments: The Cashier will be able to accept and process patient payments.
+
+      4. Verify Payments: The Cashier will be able to verify patients' payment information.
+
+      5. View Payment History: The Cashier will be able to view previous patient payment information.
+
+      6. Print Receipts: The Cashier will be able to generate and print payment receipts.
+
+      7. Update Payment Information: The Cashier will be able to update payment information when necessary.
+
+      8. Manage Outstanding Bills: The Cashier will be able to view and manage unpaid patients bills.
+
+      9. Calculate Total Cost: The Cashier will be able to calculate the total cost of hospital services.
+
+      10. Generate Payment Reports: The Cashier will be able to generate daily and monthly payment reports.
+
+
+
+         User Stories
+
+      1. As a Cashier, I would like to generate patient bills so that the patients can be aware of the cost of hospital services.
+
+      2. As a Cashier, I would like to process patient payments so that patients can make their payments.
+
+      3. As a Cashier, I would like to view patient billing information so that I can check their outstanding balance.
+
+      4. As a Cashier, I would like to verify payment information so that I can be sure of its accuracy.
+
+      5. As a Cashier, I would like to print payment receipts so that patients can receive proof of payment.
+
+      6. As a Cashier, I would like to view payment history so that I can keep track of my previous transactions.
+
+      7. As a Cashier, I would like to update payment information so that payment information will be accurate.
+
+      8. As a Cashier, I would like to manage outstanding bills so that I can know the patients with unpaid bills.
+
+      9. As a Cashier, I would like to calculate total hospital service costs so that patients can be charged accurately.
+      
+      10. As a Cashier, I would like to generate daily and monthly payment reports so that I can monitor hospital financial activities
