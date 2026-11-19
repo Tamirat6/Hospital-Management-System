@@ -1,0 +1,14 @@
+2.7 Pharmacist Functional Requirements
+The Pharmacist is responsible for managing medicines and dispensing prescribed medications.
+1. Manage Medicine
+2. View Prescriptions
+3. Dispense Medicine
+4. Update Medicine Stock
+5. Manage Medicine Inventory
+6. Search Medicine
+7. Check Medicine Availability
+8. Monitor Medicine Expiry Dates
+9. Generate Medicine Reports
+10. Notify Admin About Low Medicine Stock
+11. View Medicine History
+12. Manage Medicine Categories

@@ -1,0 +1,23 @@
+2.9 Payment System Functional Requirements
+The Payment System is an external system responsible for processing and verifying electronic payments. It helps the hospital manage payment transactions, confirm successful payments, handle failed transactions and maintain accurate payment records. The system communicates with the Hospital Management System to provide payment status and transaction information.
+Payment System Main Functionalities
+1. Receive Payment Requests: The Payment System can receive payment requests from the Hospital Management System so that patient payments can be processed electronically.
+
+2. Verify Payment Information: The Payment System can verify payment details, including payment amount and transaction information, so that payments are processed accurately and securely.
+
+3. Process Electronic Payments: The Payment System can process electronic payments so that patients can pay their hospital bills through available electronic payment methods.
+
+4. Confirm Payments: The Payment System can confirm successful payments so that the hospital knows when a patient's bill has been paid.
+
+5. Generate Payment Confirmation: The Payment System can generate payment confirmation details, including transaction ID, payment amount and payment date, so that payment activities can be properly documented.
+
+6. Send Payment Status: The Payment System can send payment status information, such as successful, pending or failed, to the Hospital Management System so that the hospital can track payment progress.
+
+7. Handle Failed Transactions: The Payment System can identify and report failed payment transactions so that unsuccessful payments can be handled appropriately.
+
+8. Update Payment Records: The Payment System can update payment information after processing transactions so that payment records remain accurate and up to date.
+
+9. Notify Cashier About Payment Status: The Payment System can notify the Cashier about successful or failed payment transactions so that the Cashier can take appropriate action.
+
+10. Maintain Transaction History: The Payment System can maintain a history of payment transactions so that authorized hospital staff can review previous payment activities when necessary.
+

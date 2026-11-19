@@ -1,3 +1,4 @@
+  The main Actors in Hospital Management System
 No    Actor             Description
 
 1,    Admin         Manage users,doctors,hospital information, and system operations.
