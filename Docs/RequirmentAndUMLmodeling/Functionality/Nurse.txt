@@ -1,0 +1,72 @@
+                                                        Nurse  Functionalities
+
+The Nurse is responsible for giving care and support to patients during their hospital visits or admission. The system helps Nurses monitor patients health conditions, update records follow doctors instructions and manage patient care efficiently.
+
+                                                       Main Functionalities
+
+1. Nurse Account Login: The Nurse can log in to the system using a username and password to access information and perform daily responsibilities securely.
+
+2. Admitted Patient Management: The Nurse can view the list of admitted patients so that the Nurse knows which patients need care and attention.
+
+3. View Patient Information: The Nurse can access details, including personal information, medical history and current health conditions to understand each patients needs.
+
+4. Monitor Signs: The Nurse can check and record patients vital signs, such as blood pressure, body temperature, pulse rate and heart rate to monitor patients health conditions regularly.
+
+5. Update Medical Records: The Nurse can update medical records with new observations, health conditions and nursing activities so that patient information remains up to date.
+
+6. View Doctor Instructions: The Nurse can access instructions and treatment plans provided by doctors so that patients receive the care and treatment.
+
+7. Record Medication Administration: The Nurse can record medicines given to patients including medication names, dosages and administration times so that medication activities are properly documented.
+
+8. Report Patient Conditions: The Nurse can. Report changes in patients health conditions to doctors so that patients receive medical attention when necessary.
+
+9. View Laboratory Information: The Nurse can access patients laboratory test requests and results so that the Nurse can understand examination progress and follow doctors instructions.
+
+10. Manage Daily Patient Care: The Nurse can. Record daily patient care activities, including assisting patients providing basic care and following treatment schedules.
+
+11. View Appointment Schedules: The Nurse can check patients appointment schedules so that the Nurse can help prepare patients for examinations and treatments.
+
+12. Manage Patient Admission and Discharge: The Nurse can. Update patient admission and discharge information so that patient movements within the hospital are properly recorded.
+
+13. Search Patient Records: The Nurse can search for information using a patient name or ID so that the Nurse can quickly find the required medical records.
+
+14. Receive Notifications: The Nurse can receive notifications, about doctor instructions, patient updates and important medical activities so that the Nurse can respond to patient needs on time.     
+                                                             
+                                                             
+
+                                                             
+                                                             Nurse User Stories
+
+The Nurse plays a role in taking care of patients during their hospital visits or admission. The system should help nurses monitor patients health conditions, record medical information follow doctors instructions and provide patient care.
+
+	                                                             User Story
+
+1	As a Nurse I want to log in to the system using my account so that I can access information and perform my daily responsibilities.
+
+2	As a Nurse I want to view the list of admitted patients so that I can know which patients need care and attention.
+
+3	As a Nurse I want to view personal information and medical history so that I can understand their previous health conditions before providing care.
+
+4	As a Nurse I want to record patients vital signs, such as blood pressure, temperature, pulse rate and heart rate so that their health conditions can be monitored regularly.
+
+5	As a Nurse I want to update medical records with new observations and health information so that doctors and other authorized staff can access the latest information.
+
+6	As a Nurse I want to view treatment instructions provided by doctors so that I can give patients the care and follow their treatment plans.
+
+7	As a Nurse I want to record medicines administered to patients so that the hospital can keep track of the medication each patient receives.
+
+8	As a Nurse I want to check patients and record changes in their health conditions so that serious health problems can be identified early.
+
+9	As a Nurse I want to report changes in a patients condition to the doctor so that the patient can receive medical attention as quickly as possible.
+
+10	As a Nurse I want to view patients laboratory test requests and results so that I can help prepare them for examinations and follow the doctors instructions.
+
+11	As a Nurse I want to manage patient care activities so that every patient receives proper attention and support during their hospital stay.
+
+12	As a Nurse I want to view patients appointment schedules so that I can help prepare them for their examinations.
+
+13	As a Nurse I want to record admission and discharge information so that the hospital can properly manage patients staying in the hospital.
+
+14	As a Nurse I want to search for a patients record using their name or patient ID so that I can quickly find the information I need.
+
+15	As a Nurse I want to receive notifications, about doctor instructions and important patient updates so that I can respond to patient needs on time.

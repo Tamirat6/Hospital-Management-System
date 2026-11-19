@@ -1,0 +1,64 @@
+                                   
+                                     Patient Functionalities
+
+A Patient is a person who goes to the hospital to get care. This system helps a Patient keep track of details, book visits see health records check lab results and pay for care. It makes hospital services simpler. Lets a Patient find key facts without hard work.
+
+                                      Main Functionalities
+
+1. Account Registration and Login: A Patient can create an account with details and then sign in using a username and password to safely use hospital services.
+
+2. Personal Information Management: A Patient can look at and change their details – name, age, address, phone, email – so the hospital has correct data.
+
+3. Doctor Information Viewing: A Patient can see which doctors are available what specialties they have and useful info to pick the best doctor for their needs.
+
+4. Appointment Request and Management: A Patient can request a visit with a doctor see upcoming appointments and cancel or change them if needed.
+
+5. Medical History Viewing: A Patient can look at records – diagnoses, treatments, previous visits – to understand their health history.
+
+6. Laboratory Results Viewing: A Patient can see lab test results once the technician finishes and posts them.
+
+7. Prescription Viewing: A Patient can read the medicines a doctor has prescribed – names, doses how to take them – so they know what to do.
+
+8. Bill and Payment Management: A Patient can see hospital bills see service costs and pay using the payment options that're available.
+
+9. Notification Management: A Patient can get alerts about visits new lab results, prescriptions and payment confirmations keeping them in the loop.
+
+10. Hospital Assistance: A Patient can ask for help. Talk to hospital staff through the system when they have questions face problems or need more info, about services.    
+                                   
+                                   
+
+                                   Patient User Stories
+
+Patient is the person who receives services from the hospital. The system should make it easy for Patient to manage accounts, request appointments, access medical information and pay for hospital services without difficulties.
+
+                                    User Story
+
+1 Patient wants to create an account with information so that Patient can access hospital services through the system.
+
+2 Patient wants to log in and log out securely so that Patients personal and medical information remains protected.
+
+3 Patient wants to view and update information, such as phone number, address and email so that hospital always has Patients correct contact details.
+
+4 Patient wants to request an appointment with a doctor so that Patient can receive attention when Patient needs it.
+
+5 Patient wants to view doctors and their specialties so that Patient can choose a doctor who can help with Patients health problem.
+
+6 Patient wants to view appointment details, including doctors name, date and time so that Patient knows when Patient should visit the hospital.
+
+7 Patient wants to cancel or reschedule an appointment when something unexpected happens so that Patient does not miss visit.
+
+8 Patient wants to view history, including previous diagnoses and treatments so that Patient can understand past health conditions.
+
+9 Patient wants to view laboratory test results after technician completes tests so that Patient knows results of examinations.
+
+10 Patient wants to view prescriptions given by doctor so that Patient knows which medicines should be taken and how to use them.
+
+11 Patient wants to view hospital bills so that Patient understands how much must be paid for services received.
+
+12 Patient wants to make payments through payment methods so that Patient pays hospital expenses conveniently.
+
+13 Patient wants to receive notifications, about appointments, laboratory results and payments so that Patient does not miss hospital updates.
+
+14 Patient wants to view appointments so that Patient remembers past hospital visits.
+
+15 Patient wants to contact hospital or request assistance through system so that Patient gets help when questions or problems arise.
