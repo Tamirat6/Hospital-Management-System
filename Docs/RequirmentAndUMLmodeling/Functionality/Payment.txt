@@ -21,3 +21,25 @@ Payment System Main Functionalities
 
 10. Maintain Transaction History: The Payment System can maintain a history of payment transactions so that authorized hospital staff can review previous payment activities when necessary.
 
+                                      Payment System User Stories
+The Payment System plays an important role in processing electronic payments between patients and the hospital. The system should help verify payment information, process transactions, confirm payments, report payment status and maintain transaction records.
+User Stories
+1. As a Payment System, I want to receive payment requests from the Hospital Management System so that patient payments can be processed electronically.
+
+2. As a Payment System, I want to verify payment information so that I can ensure payment details are correct before processing transactions.
+
+3. As a Payment System, I want to process electronic payments so that patients can pay their hospital bills using available electronic payment methods.
+
+4. As a Payment System, I want to confirm successful payments so that the Hospital Management System knows when a patient's bill has been paid.
+
+5. As a Payment System, I want to generate payment confirmation details so that patients and authorized hospital staff can have proof of successful transactions.
+
+6. As a Payment System, I want to send payment status information to the Hospital Management System so that the hospital can track whether payments are successful, pending or failed.
+
+7. As a Payment System, I want to identify and report failed transactions so that unsuccessful payments can be handled appropriately.
+
+8. As a Payment System, I want to update payment records after processing transactions so that payment information remains accurate and up to date.
+
+9. As a Payment System, I want to notify the Cashier about payment status so that the Cashier can know whether a patient's payment has been completed or failed.
+
+10. As a Payment System, I want to maintain transaction history so that authorized hospital staff can review previous payment activities when necessary.
