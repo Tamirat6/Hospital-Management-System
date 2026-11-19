@@ -1,4 +1,4 @@
-            2.7 Pharmacist Functional Requirements
+             Pharmacist Functional Requirements
 The Pharmacist is responsible for managing medicines, maintaining medicine inventory and dispensing prescribed medications to patients. The system helps Pharmacists manage medicine stock, check medicine availability, monitor expiry dates, view prescriptions and maintain accurate medicine records.
 Pharmacist Main Functionalities
 1. Manage Medicine: The Pharmacist can add, update and delete medicine information, including medicine name, description, price and dosage so that medicine records remain accurate and up to date.
