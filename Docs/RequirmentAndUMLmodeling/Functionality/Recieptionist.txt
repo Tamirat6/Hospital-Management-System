@@ -1,12 +1,1 @@
-2.2 Receptionist Functional Requirements
-The Receptionist is responsible for patient registration and appointment management.
-1. Register Patient
-2. Book Appointment
-3. Cancel Appointment
-4. Update Patient Information
-5. Search Patient
-6. View Patient Information
-7. Manage Appointment Schedules
-8. Assign Patients to Doctors
-9. View Doctor Availability
-10. Generate Patient Registration Reports
+
