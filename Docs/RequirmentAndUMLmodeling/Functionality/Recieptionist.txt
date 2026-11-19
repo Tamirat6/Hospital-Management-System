@@ -1,4 +1,4 @@
-        2.2 Receptionist Functional Requirements
+         Receptionist Functional Requirements
 The Receptionist is responsible for registering patients, managing appointments and coordinating communication between patients and hospital staff. The system helps Receptionists register new patients, update patient information, schedule appointments, assign patients to doctors and manage patient registration records efficiently.
 Receptionist Main Functionalities
 1. Register Patient: The Receptionist can register new patients by entering their personal information, including full name, age, gender, phone number and address so that patient information is recorded in the hospital system.
