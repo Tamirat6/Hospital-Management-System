@@ -1,4 +1,4 @@
-2.9 Payment System Functional Requirements
+                                             Payment System Functional Requirements
 The Payment System is an external system responsible for processing and verifying electronic payments. It helps the hospital manage payment transactions, confirm successful payments, handle failed transactions and maintain accurate payment records. The system communicates with the Hospital Management System to provide payment status and transaction information.
 Payment System Main Functionalities
 1. Receive Payment Requests: The Payment System can receive payment requests from the Hospital Management System so that patient payments can be processed electronically.
