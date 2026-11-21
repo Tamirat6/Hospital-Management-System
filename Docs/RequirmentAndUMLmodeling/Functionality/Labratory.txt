@@ -1,8 +1,8 @@
-                                                          Functionalities
+                                                                    Functionalities
 
 The Laboratory Technician is responsible for handling laboratory activities performing tests and recording test results. The system helps laboratory technicians manage test requests from doctors, update test results and make laboratory information available to doctors.
 
-                                                         Main Functionalities
+                                                                   Main Functionalities
 
 1. Laboratory Technician Account Login: The laboratory technician can log in to the system using a username and password to access laboratory services
 
