@@ -1,26 +1,26 @@
 Functionalities
 
   The Doctor is required to provide healthcare services and manage patient medical records.
+      1,Doctor Account Login: The doctor can log in with a username and password to view patient records, manage diagnoses, and issue prescriptions.
+      2, View Patient Records: The Doctor shall be able to view patient medical records.
 
-      1, View Patient Records: The Doctor shall be able to view patient medical records.
+      3, View Appointments: The Doctor shall be able to view scheduled patient appointments
 
-      2, View Appointments: The Doctor shall be able to view scheduled patient appointments
+      4, Diagnose Patients: The Doctor shall be able to diagnose patients.
 
-      3, Diagnose Patients: The Doctor shall be able to diagnose patients.
+      5, Manage Medical Records: The Doctor shall be able to create, update and view patient medical records.
 
-      4, Manage Medical Records: The Doctor shall be able to create, update and view patient medical records.
+      6, Prescribe Medicines: The Doctor shall be able to prescribe medicines to patients.
 
-      5, Prescribe Medicines: The Doctor shall be able to prescribe medicines to patients.
+      7, Request Laboratory Tests: The Doctor shall be able to request laboratory tests for patients.
 
-      6, Request Laboratory Tests: The Doctor shall be able to request laboratory tests for patients.
-
-      7, View Laboratory Results: The Doctor shall be able to view patient laboratory test results.
-
-      8, Update Treatment Information: The Doctor shall be able to record and update patient treatment information.
+      8, View Laboratory Results: The Doctor shall be able to view patient laboratory test results.
 
       9, Update Treatment Information: The Doctor shall be able to record and update patient treatment information.
 
-      10, Manage Patient Follow-ups: The Doctor shall be able to manage patient follow-up visits.
+      10, Update Treatment Information: The Doctor shall be able to record and update patient treatment information.
+
+      11, Manage Patient Follow-ups: The Doctor shall be able to manage patient follow-up visits.
 
 
 
