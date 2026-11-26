@@ -1,26 +1,26 @@
                                         Functionalities 
 
       The admin will manage the overall HMS
+       1.Admin Account Login: The admin can log in with a username and password to manage users, staff accounts, and system settings.
+       2.Manages Users-The admin will be able to add, update, delete and view system users
 
-       1.Manages Users-The admin will be able to add, update, delete and view system users
+       3.Manage Doctors-The admin will be able to register, update, delete and view doctor information
 
-       2.Manage Doctors-The admin will be able to register, update, delete and view doctor information
+       4.Manage Hospital Information-The admin will be able to manage hospital details and departments
 
-       3.Manage Hospital Information-The admin will be able to manage hospital details and departments
+       5.Manage Staff Accounts-The Admin will be able to create and manage accounts for hospital staff
 
-       4.Manage Staff Accounts-The Admin will be able to create and manage accounts for hospital staff
+       6.Manage User Roles-The admin will be able to assign roles and access permissions to users
 
-       5.Manage User Roles-The admin will be able to assign roles and access permissions to users
+       7.View Reports-The Admin will be able to view hospital reports
 
-       6.View Reports-The Admin will be able to view hospital reports
+       8.Manage System Settings-The Admin will be able to configure and maintain system settings
 
-       7.Manage System Settings-The Admin will be able to configure and maintain system settings
+       9.Monitor Hospital Activities-The admin will be able to monitor the overall activities of the hospital
 
-       8.Monitor Hospital Activities-The admin will be able to monitor the overall activities of the hospital
+       10.Manage Patients- The Admin will be able to view, update and manage patient information
 
-       9.Manage Patients- The Admin will be able to view, update and manage patient information
-
-       10.Manage Departments-The Admin will be able to create, update and delete hospital departments
+       11.Manage Departments-The Admin will be able to create, update and delete hospital departments
 
 
 
