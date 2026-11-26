@@ -1,26 +1,26 @@
 Functionalities
 
       The Cashier is supposed to handle all activities regarding patient billing and payment
+       1.Cashier Account Login: The cashier can log in with a username and password to access billing and record patient payments.
+      2. Generate bills:The Cashier will be able to generate bills for hospital services rendered to patients.
 
-      1. Generate bills:The Cashier will be able to generate bills for hospital services rendered to patients.
+      3. View Patient Billing Information: The Cashier will be able to view patient billing information.
 
-      2. View Patient Billing Information: The Cashier will be able to view patient billing information.
+      4. Process Payments: The Cashier will be able to accept and process patient payments.
 
-      3. Process Payments: The Cashier will be able to accept and process patient payments.
+      5. Verify Payments: The Cashier will be able to verify patients' payment information.
 
-      4. Verify Payments: The Cashier will be able to verify patients' payment information.
+      6. View Payment History: The Cashier will be able to view previous patient payment information.
 
-      5. View Payment History: The Cashier will be able to view previous patient payment information.
+      7. Print Receipts: The Cashier will be able to generate and print payment receipts.
 
-      6. Print Receipts: The Cashier will be able to generate and print payment receipts.
+      8. Update Payment Information: The Cashier will be able to update payment information when necessary.
 
-      7. Update Payment Information: The Cashier will be able to update payment information when necessary.
+      9. Manage Outstanding Bills: The Cashier will be able to view and manage unpaid patients bills.
 
-      8. Manage Outstanding Bills: The Cashier will be able to view and manage unpaid patients bills.
+      10. Calculate Total Cost: The Cashier will be able to calculate the total cost of hospital services.
 
-      9. Calculate Total Cost: The Cashier will be able to calculate the total cost of hospital services.
-
-      10. Generate Payment Reports: The Cashier will be able to generate daily and monthly payment reports.
+      11. Generate Payment Reports: The Cashier will be able to generate daily and monthly payment reports.
 
 
 
